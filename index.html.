@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Expert plastering refurbishment services for homes and businesses. Revitalize your walls and ceilings with our skilled craftsmanship.">
+    <title>Plastering Refurbishment Services</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #444;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            background-color: #666;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .hero {
+            background: url('plastering-refurbishment.jpg') no-repeat center center/cover;
+            height: 400px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: #fff;
+            text-align: center;
+        }
+        .hero h2 {
+            font-size: 48px;
+            background-color: rgba(0, 0, 0, 0.6);
+            padding: 20px;
+        }
+        section {
+            padding: 40px 20px;
+            text-align: center;
+        }
+        .services {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            margin-bottom: 40px;
+        }
+        .service-item {
+            background-color: #fff;
+            padding: 20px;
+            margin: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 30%;
+            min-width: 250px;
+        }
+        .service-item h3 {
+            color: #444;
+        }
+        .about-us, .contact {
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: left;
+        }
+        footer {
+            background-color: #444;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Plastering Refurbishment Experts</h1>
+</header>
+
+<nav>
+    <a href="#services">Our Services</a>
+    <a href="#about">About Us</a>
+    <a href="#contact">Contact Us</a>
+</nav>
+
+<section class="hero">
+    <h2>Transform Your Space with Expert Plastering</h2>
+</section>
+
+<section id="services">
+    <h2>Our Refurbishment Services</h2>
+    <div class="services">
+        <div class="service-item">
+            <h3>Wall Restoration</h3>
+            <p>We specialize in restoring damaged or outdated walls, giving them a fresh and smooth finish that lasts.</p>
+        </div>
+        <div class="service-item">
+            <h3>Ceiling Repair & Renewal</h3>
+            <p>From cracks to water damage, we handle all types of ceiling repairs and renewals for homes and businesses.</p>
+        </div>
+        <div class="service-item">
+            <h3>Full Room Refurbishment</h3>
+            <p>Our team provides complete plastering refurbishment for rooms, ensuring a high-quality finish on every surface.</p>
+        </div>
+        <div class="service-item">
+            <h3>Decorative Plasterwork</h3>
+            <p>We also offer detailed decorative plasterwork, including cornices and moldings, to elevate the style of your space.</p>
+        </div>
+    </div>
+</section>
+
+<section id="about">
+    <h2>About Us</h2>
+    <div class="about-us">
+        <p>With over 20 years of experience in plastering refurbishment, we are the trusted choice for homeowners and businesses alike. Our team is dedicated to delivering exceptional workmanship on every project, from small repairs to full refurbishments.</p>
+        <p>We use the highest-quality materials and modern techniques to ensure your walls and ceilings look flawless and last for years to come. Whether you're updating your home, restoring an old building, or fixing damage, we're here to help.</p>
+    </div>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <div class="contact">
+        <p>Get in touch with us for a free consultation and quote on your plastering refurbishment project.</p>
+        <p>Email: <a href="mailto:info@plasteringrefurb.com">info@plasteringrefurb.com</a></p>
+        <p>Phone: 555-123-4567</p>
+        <p>Address: 123 Plaster Street, Cityville, ST 12345</p>
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2024 Plastering Refurbishment Experts | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
